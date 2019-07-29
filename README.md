@@ -1,1 +1,1 @@
-# MLCV-2
+# Handwritten Digital Image Synthesis Using Generative Adversarial Networks
